@@ -1,27 +1,18 @@
-# xiyue
+---
+title: webpack+vue+bootstrap仿希悦网 
+tags: webpack,vue,xiyue
+---
 
-> A Vue.js project
 
-## Build Setup
+## 介绍
+使用webpack + bootstrap + vue-cil脚手架工具，基于vue1.0实现的仿希悦网全站
 
-``` bash
-# install dependencies
-npm install
+## 使用
 
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# run unit tests
-npm run unit
-
-# run e2e tests
-npm run e2e
-
-# run all tests
-npm test
-```
-
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+ 1. `npm i`
+ 2. `npm run dev`
+ 
+ ps:请确认node.js已安装
+ 
+##  其他
+练习作品，基于vue1.0，只用到了路由，表单验证还没有添加，后面有时间会用vue2.0重构下...
