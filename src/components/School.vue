@@ -87,7 +87,7 @@
 <style type="text/css">
 	.school-first {
 		padding: 50px 0;
-		background: url(../assets/img/bg1.jpg) bottom;
+		background: url("../assets/img/bg1.jpg") bottom;
 		color: white;
 	}
 	/**/

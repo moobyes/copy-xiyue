@@ -140,7 +140,7 @@
 	.partner-first {
 		color: white;
 		padding: 130px 0;
-		background-image: url(../assets/img/bg1-1.jpg);
+		background-image: url("../assets/img/bg1-1.jpg");
 	}
 	
 	.partner-second {

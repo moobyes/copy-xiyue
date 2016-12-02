@@ -47,7 +47,7 @@
 
 <style type="text/css">
 	.job-first {
-		background: url(../assets/img/bg1-2.jpg) 100%;
+		background: url("../assets/img/bg1-2.jpg") 100%;
 		height: 540px;
 		position: relative;
 	}

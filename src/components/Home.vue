@@ -192,7 +192,7 @@
 		top: 0px;
 		width: 100%;
 		height: 100%;
-		background: url(../assets/img/bg1.png) no-repeat;
+		background: url("../assets/img/bg1.png") no-repeat;
 		background-size: 100% auto;
 	}
 	
@@ -225,7 +225,7 @@
 	.home-second {
 		position: relative;
 		padding-top: 50px;
-		background: url(../assets/img/bg2.png) no-repeat bottom;
+		background: url("../assets/img/bg2.png") no-repeat bottom;
 		background-size: 100% auto;
 		border-bottom: 1px solid #EEEEEE;
 	}

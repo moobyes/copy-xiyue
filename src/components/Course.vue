@@ -188,7 +188,7 @@
 
 <style type="text/css">
 	.course-first {
-		background-image: url(../assets/img/bg3.png);
+		background-image: url("../assets/img/bg3.png");
 		padding: 50px 0;
 		color: white;
 	}
@@ -200,7 +200,7 @@
 	
 	.course-second {
 		padding: 50px 0;
-		background: url(../assets/img/bg2.svg) no-repeat bottom;
+		background: url("../assets/img/bg2.svg") no-repeat bottom;
 	}
 	
 	.course-second p {

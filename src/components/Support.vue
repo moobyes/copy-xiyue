@@ -11,7 +11,7 @@
 
 <style type="text/css">
 	.support-first{
-		background-image: url(../assets/img/bg3.png);
+		background-image: url("../assets/img/bg3.png");
 		padding: 100px 0;
 		color: white;
 	}
