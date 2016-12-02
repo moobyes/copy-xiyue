@@ -16,3 +16,6 @@ tags: webpack,vue,xiyue
  
 ##  其他
 练习作品，基于vue1.0，只用到了路由，表单验证还没有添加，后面有时间会用vue2.0重构下...
+
+## 演示地址：
+[DEMO](https://mrcxt.github.io/copy-xiyue/dist/index.html)
